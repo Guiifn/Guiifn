@@ -1,5 +1,5 @@
 # About Me:
-👨‍💻 Estudante & CEO
+👨‍💻 Estudante
 
 
 ## Socials:
