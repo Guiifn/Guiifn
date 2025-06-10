@@ -34,7 +34,8 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/aurora-snake.svg?color_snake=lime&color_dots=#003b4d,#00536e,#006d92,#0089b9,&color_bg=#0d1117
             dist/ocean-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        
+            dist/blue-snake.svg?color_snake=#007ACC&color_dots=#61dafb,#87ceeb,#add8e6&color_bg=#0d1117
+
         # O 'env' deve estar aqui, no mesmo nível de indentação que 'with'
         env:
           # É necessário para a action poder aceder às suas contribuições
